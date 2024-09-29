@@ -101,6 +101,7 @@ i {
     font-size: 30px;
     top: 0px;
     color: white;
+    z-index: 999;
 }
 /*--------- NAVBAR FOR FORMAT CLOSED-------*/
 
